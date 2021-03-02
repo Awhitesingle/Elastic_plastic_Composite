@@ -1,0 +1,2 @@
+# Elastic_plastic_Composite
+模拟碳纤维增强复合材料的弹塑性行为的模型
